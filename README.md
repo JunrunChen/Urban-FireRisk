@@ -38,7 +38,7 @@ This study investigates the use of state-of-the-art Machine Learning techniques 
 
 ## Setup and Installation
 1. Clone this repository
-2. Install required packages: `pip install -r requirements.txt`
+2. Install required packages: `pip install -r requirements.rtf`
 3. Run Jupyter Notebook: `jupyter notebook`
 4. Open `kelio.ipynb` to view the analysis
 
